@@ -7,3 +7,6 @@ performance. Hybrid-AFP achieves around 47.4% speedup over traditional
 algorithms like Apriori and FP-Growth and similar model accuracy. However, this
 Python implementation only works for medium-support threshold scenarios and
 Hybrid-AFP is not without its limitations which will be discussed as well.
+
+Link to paper:
+https://doi.org/10.13140/RG.2.2.35768.40968
