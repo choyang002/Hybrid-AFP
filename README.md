@@ -9,4 +9,4 @@ Python implementation only works for medium-support threshold scenarios and
 Hybrid-AFP is not without its limitations which will be discussed as well.
 
 Link to paper:
-https://doi.org/10.13140/RG.2.2.35768.40968
+https://www.researchgate.net/publication/397626975_Hybrid-AFP_A_Hybrid_Algorithm_Combining_Apriori_and_FP-Growth_for_Association_Rule_Mining
